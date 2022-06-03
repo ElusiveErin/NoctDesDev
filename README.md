@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on developing or designing pc or mobile games. 
 - 📫 How to reach me on Discord: Erin#1482, Twitter @ElusiveErin and www.linkedin.com/in/ElusiveErin
 
+This page is currently under construction!
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
