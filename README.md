@@ -1,4 +1,4 @@
-- Hi, I’m Erin
+- Hi, I’m Erin Price.
 - I'm based out of Anchorage, Alaska. 
 - I’m interested in game design and development.
 - I’m currently working on web development and apps.
